@@ -3,6 +3,7 @@
 Assignment repository created by Manav Shah, aspiring for the Quantitaive Analyst Internship.
 
 Code written in python in a jupyter notebook - FalconX_Assignment.ipynb
+
 Trades.csv is a data file for the trades queried by the Graph.
 
 Dependencies-
